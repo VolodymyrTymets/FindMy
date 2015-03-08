@@ -4,13 +4,13 @@ Server for FindMy Program
 * get All user
   `/api/Location/GetAll` <br />
 
-*set user
+* set user
   `/api/Location/Set` <br />
   **Data to send** <br />
   >
-    { <br />
-      UserName : name, <br />
-      latitude:21.5456, <br />
-      longitude:26.5546 <br />
-    } <br />
-   <br />
+    { 
+      UserName : name, 
+      latitude:21.5456, 
+      longitude:26.5546 
+    } 
+   
