@@ -1,0 +1,11 @@
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\FindMy.Domaim.dll.config
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\FindMy.Domaim.dll
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\FindMy.Domaim.pdb
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\EntityFramework.dll
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\EntityFramework.SqlServer.dll
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\Ninject.dll
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\EntityFramework.xml
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\EntityFramework.SqlServer.xml
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\bin\Release\Ninject.xml
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\obj\Release\FindMy.Domaim.dll
+E:\Універ\5 курс\2 симестр\піговський\FindMy\FindMy.Domaim\obj\Release\FindMy.Domaim.pdb
