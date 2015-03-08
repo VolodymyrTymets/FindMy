@@ -1,7 +1,7 @@
 # FindMy
 Server for FindMy Program
-## Api fpr youse
-* get All user
+## Api
+* get All users
   `/api/Location/GetAll` <br />
 
 * set user
