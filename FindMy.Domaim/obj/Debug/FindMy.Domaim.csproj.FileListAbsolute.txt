@@ -1,0 +1,12 @@
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\FindMy.Domaim.dll.config
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\FindMy.Domaim.dll
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\FindMy.Domaim.pdb
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\EntityFramework.dll
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\Ninject.dll
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\EntityFramework.xml
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\bin\Debug\Ninject.xml
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\obj\Debug\FindMy.Domaim.csprojResolveAssemblyReference.cache
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\obj\Debug\FindMy.Domaim.dll
+c:\Users\Vova\documents\visual studio 2013\Projects\FindMy\FindMy.Domaim\obj\Debug\FindMy.Domaim.pdb
