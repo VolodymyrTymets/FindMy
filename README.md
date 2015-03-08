@@ -8,9 +8,9 @@ Server for FindMy Program
   `/api/Location/Set` <br />
   **Data to send** <br />
   >
-    { 
-      UserName : name, 
-      latitude:21.5456, 
-      longitude:26.5546 
-    } 
+    { <br/>
+      UserName : name, <br/>
+      latitude:21.5456, <br/>
+      longitude:26.5546 <br/>
+    } <br/>
    
