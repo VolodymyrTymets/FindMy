@@ -4,7 +4,7 @@ Server for FindMy Program<br/>
 ## Api
 * get All users
   `http://www.findmy.somee.com/api/Location/GetAll?r=5&lat=20.455&lon=30.45` <br />
-* get All users
+* get single user
   `http://www.findmy.somee.com/api/Location/GetFriend?UserName=user1` <br />
 
 * set user
