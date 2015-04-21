@@ -1,6 +1,6 @@
 # FindMy
 Server for FindMy Program<br/>
-    server hosting hear: [www.findmy.somee.com](http://www.findmy.somee.com)<br/>
+    server hosting hear: [www.findmy.somee.com](http://www.findmy.somee.com/index.html)<br/>
 ## Api
 * get All users
   `http://www.findmy.somee.com/api/Location/GetAll?r=5&lat=20.455&lon=30.45` <br />
